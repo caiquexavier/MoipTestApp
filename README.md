@@ -1,6 +1,3 @@
-# MoipTestApp
-Teste para dev do moip
-
 Dependências:
 - JRE - java version "1.8.0_121"
 
